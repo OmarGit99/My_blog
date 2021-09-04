@@ -1,2 +1,2 @@
-# My blog/portfolio
-My portfolio website with blogposts
+<h3 align="center"> My blog/portfolio </h3>
+<li> My professional portfolio website with blogposts </li>
